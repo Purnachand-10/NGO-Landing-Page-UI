@@ -19,3 +19,6 @@ Designed a responsive NGO website landing page using Figma.
 - Modern card grid
 - CTA buttons
 - NGO-inspired color palette
+
+
+Designed for NGO-style community support and volunteer management platforms inspired by InAmigos Foundation.
